@@ -1,0 +1,83 @@
+# Boden, Pflanze, Atmosphäre {#BPA}
+
+Die Notitzen sind eine Kenntnisse-Sammelung aus Kurs Boden, Pflanze, Atmosphäre [@S-BPA].
+
+## Interdisziplinäre Bedeutung des Aufgabengebietes
+
+BPA-System spielt Schlüsselrolle bei Energie- und Stoffaustauschen über Landoberflächen in Klimaszstemen aller [Skalen](#skalen).
+
+### Hintergrund
+
+Pflanze ist eine Schnittstelle zwischen Boden und Atmospäre. Das Wachstum der Pflanze abhängigt von H~2~O-, CO~2~-, N- Flüssen.
+
+**Eigenschaften** der Pflanze (BPA-System):
+unter allen natürlichen Oberflächentypen ist es
+
+- (raumlich) heterogensten
+- zeitlich variabelsten
+- stärksten anthropogen beeinflusst
+(System mit großen, kurzfristigen Eingriffsmöglichkeiten des Menschen)
+
+**Unsicherheitn**:
+
+- Unsicherheitn bei der Quantifizierung der Energie- und Stofftransporte in allen Skalenebenen, z.B. **Globaler Kohlenstoffhaushalt**
+- Unsicherheit der C-Quelle / Senke: Emissionen durch Landnutzungsünderungenö; Senke der Oberfläche; Netto-FLuss über Land.
+
+### Forschungen
+
+**IGBP** (International Geosphere-Biosphere Programme)
+
+**DFG-Ammer** Methoden zur Kopplung hydrologischer und biologischer Prozesse auf der Landschaftsebene
+
+![](fig/BPA/Forschung_list.JPG)
+Bild aus Skript[@S-BPA]
+
+## Skalenbetrachtung und raum-zeitliche Abhängigkeit des Systems BPA
+
+### Raum-Zeit-Skala
+
+
+- Skale der Landoberfläche bestimmt **Skale der Wechselwirkung** mit der Atmosphäre
+- Generell ergolgt bestimmter Raum-Zeit-Bezug im System BPA durch **dominierende Prozesse**
+- Jedoch: Prozesse innerhalb des Systems haben, abhängig von betrachteter Komponente, unterschiedlichen Raum-Zeit-Bezug
+- Intensität und Wahrnehmbarkeit der Wechselwirkung wird bestimmt vom Grad der Kopplung LOF-Atmosphäre, die von der Komplexität der LOF abhängt (z.B. Wald-starke Wechselwirkung, Kurzgras-schwache Wechselwirkung)
+
+Raumliche und zeitliche Skalen sind eigentlich anhängig, die Skalen werden in der Regel in **Makro**, **Meso**, **Local** und **Micro** geteilt.
+
+
+![](fig/BPA/raum_zeit_scale.JPG)
+
+![](fig/BPA/raum_zeit_scale2.JPG)
+
+Nach Smagorinski, 1974; aus Skript[@S-BPA]
+
+![](fig/BPA/raum_zeit_scale3.JPG)
+Bedeutung eines Prozesses und des entsprechenden Werkzeugs zur Prozessbeschreibung hängt ab von der **betrachteten Skale**![@S-BPA]
+
+### Raum-zeitliche Wechselwirkung von Klima und Landschaft
+
+- Benachbarte Kleiklimate beeinflussen sich **wechselseitig**
+- Die Intensität der Wechselwirkung hängt von **Größe** und **Komplexität** der Landnutzungsstrukturen ab
+- Die Charakteristik der Wechselwirkungen wird gesteuert über den **Energie- und Stoffaustauschen** zwischen Landschaft und Atmosphäre
+
+### Globale und regionale Wechselwirkungen und Rückkopplungen
+
+- Rückkopplung zwischen **Energie- und Stoffaustausch** und den "**Antriebskräften**" des Austauches (Gradienten, Randbediengungen)
+- Charakter der Wechselwirkung abhängig vom **Raum-Zeit-Maßtab** der **beteiligten Komponenten**: linear: gleicher Maßstab; nicht-linear: unterschiedlicher Maßtab
+
+![](fig/BPA/scale_auswirkung.JPG)
+Bild aus Skript[@S-BPA]
+
+1. Sca~LN~ < 0.1$\times$z~AGS~: Dominanz **vertikaler** Wechselwirkung
+2. Sca~LN~ > 10$\times$z~AGS~ und **geringe therm. Unterschiede**: Dominanz **vertikaler**, Beginn horiz. Wechselwirkung
+3. Sca~LN~ > 10$\times$z~AGS~ und **große therm. Unterschiede**:Dominanz **horizontaler** Wechselwirkung
+
+![](fig/BPA/reg_wechsel.JPG)
+Schema der Wechselwirkungs- und Rückkopplungsprozesse infolge Landdegradation
+
+
+
+
+
+
+
