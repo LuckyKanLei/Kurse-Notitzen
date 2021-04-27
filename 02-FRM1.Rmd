@@ -1,0 +1,116 @@
+# FLOOD RISK MANAGEMENT I {#FRM1}
+
+Integrated risk management of flood events requires complex, trans-disciplinary approaches. The module focuses on the relevant physical processes of flood risks for a comprehensive risk analysis.
+
+## Framework of Integrated Flood Risk Management
+
+This section is based on the lecture "A Framework of Integrated Flood Risk Management"[@S-FRM1-0].
+
+### Basic terms
+
+A flood is a **temporary** covering of land by water outside its **normal confines**.(FLOODsite-Consortium 2009)
+
+**Typology**
+
+*Type of flood* (site):
+
+- Plain floods
+- Flash floods
+- Estuarial floods
+- Coastal floods
+- Pluvial floods
+
+*Cause of event*:
+
+- Cyclone rainfall floods
+- Snowmelt floods
+- Sea surge and tidal floods
+- Urban sewer floods
+- Dam break or reservoir control floods
+
+from “Flood Protection” towards “**Flood Risk Management**”
+
+Defination:
+The paradigm change is based on the recognition that absolute flood protection is unachievable and unsustainable, because of high costs and inherent uncertainties. 
+
+Flood risk is understood as probability of **negative consequences** due to floods and can only be reduced to a tolerable level.
+
+Flood risk management considers all relevant processes of the **flood hazard** and the **flood vulnerability** to govern flood risks.
+
+Risk = **probability** * (negativ) consequence [not certainly]
+
+Flood risk = flood hazard * (exposure) * flood vulnerability
+
+vulnerability = value/function * susceptibility * coping capacity
+
+Risk = f(Hazard, Vulnerability)
+
+![](fig/FRM1/hazard_risk.JPG)
+
+Bild aus Schatze [@S-FRM1-0].
+
+
+**Flood hazard**
+A **physical** event, phenomenon or human activity with the potential to result in harm. A hazard does not necessarily lead to harm.
+
+Hazards are normaly described as the **probability** of flood events with a certain magnitude and other features.
+
+**Flood vulnerability**
+Characteristic of a system that describes its **potential to be harmed**.
+It covers physical, social, economic, ecological and institutional aspects.
+
+Areas of Vulnerability
+direct / indirect
+tangible / intangible
+
+![](fig/FRM1/vulnerability.JPG)
+
+Bild aus Schatze [@S-FRM1-0].
+
+### Main causal relations within the flood risk system
+
+Source \rightarrow pathway \rightarrow receptor \rightarrow consequence
+
+Flood risk = f(f~source~(probability, features), f~pathway~(inundation, attributes), f~receptor~(susceptibility), f~consequence~(value, coping capacity))
+
+### Task and components of flood risk management
+
+![](fig/FRM1/task.JPG)
+
+Bild aus Schatze [@S-FRM1-0].
+
+Flood risk management = analysis + evaluation + reduction
+
+Hazard analysis: Quantification of magnitude and other features.
+
+Vulnerability analysis: Quantification and qualification of potential adverse social, economic and ecological impacts due to flooding.
+
+Risk determination: Methofology to caculate the nature and extent of flood risk.
+
+Evaluating risk: Methods of tolerability aversion, sustainability and so forth depending on individual or collective interest, values and aims.
+
+Evaluating risk reduction: Individual measures and instruments in terms of their intended performance and their relation to side-effects.
+
+Pre-flood risk reduction: Measures and instruments including their operationalisation for modeling resulting risks ex ante and the planning and implementation process.
+
+Flood event risk reduction: 
+
+Post-flood risk reduction:
+
+
+
+
+---
+
+hazard, flood hazard, danger
+
+institutional, 
+
+receptor, 
+
+impacts, 
+
+collective, individual or collective
+
+sustainability, 
+
