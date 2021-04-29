@@ -1,0 +1,151 @@
+# Wöter Liste {.unnumbered}
+
+Wöter Liste in Fachgebiet oder Bericht.
+
+## Bericht
+
+### Deutsch
+
+### English
+
+Nonstationarity **can lead to** an optimal parameter set for one period which may not accurately simulate another.
+
+Peaks of actual evapotranspiration for this watershed also **shifted from** April **to** May *due to* different arameter values **depending on** the calibration period's winter air temperatures.
+
+It is **imperative** that calibration and validation time periods are chosen selectively **instead of** arbitrarily
+
+the **goals of** the study
+
+**It is also crucial that** the hydrologic modelling community improves existing calibration and validation practices
+
+commonly
+
+**It is therefore important that** these models **reliably** represent historical observations **within the bounds of** heir uncertainty, as this gives confidence to model users and decision makers
+
+out of bounds, beyound the bounds of
+
+an arbitrary **division of** the data time series **into** two subsets
+
+However, there are **a wide variety of** ways to split data
+
+**without justification**
+
+Nonstationarity can also **affect** hydrologic model outputs **by** making model processes
+
+identify different **responses to** nonstationarity
+
+computationally
+
+The parameterization of a model, **as well as** the ability to identify optimal parameter values,
+
+**albeit** there is still much to learn about building models and parameterizations aimed to account for nonstationarity in system processes.
+
+**albeit = although**
+
+and studies **rarely** explain why a particular data splitting
+
+Unless specifically **focused on** model calibration
+
+this consideration is frequently **overlooked**
+
+split-sample is **a classical approach to** select calibration
+
+when the calibration and validation data **exhibit** high autocorrelation
+
+**Since then**, various other guidelines have been suggested
+
+However, the **impacts of** nonstationarity **on** other water balance components *besides* the main output (e.g., streamflow) are typically not assessed.
+
+**the influence of** initial parameter
+
+This work uses XXX
+
+XXX **is widely used for** hydrological simulations
+
+**For instance** = z.B.
+
+A can broadly affect B
+
+These differences **occurred** *throughout* the water balance, including snowmelt
+
+Researchers interested only in streamflow outputs could argue that **adequate** simulation of other water balance components **is not integral to** their studies.
+
+water balance simulations are **properly** considered
+
+the unmeasured water balance components should **be aware of** how much they can **be affected by** calibration
+
+This **highlights the importance of careful** calibration period choice
+
+## Model Modell
+
+### Deutsch
+
+### English
+
+Model development,
+
+calibration
+
+optimization approach
+
+validation
+
+Calibration and validation **were performed with** the evolutionary algorithm AMALGAM
+
+performance measure: NSE, KGE, dr
+
+time periods
+
+**arbitrarily**
+
+responses
+
+which **impaired** the ability for models
+
+procedure
+
+reliably **represent** historical **observations within the bounds of heir uncertainty**
+
+**long-term** historical dataset
+
+**sufficient** knowledge
+
+Additional benefits include better **assessment of model** processes and **improved** communication and **coordination** of modelling practices
+
+other **components** of the water balance
+
+Historical observed data **are allocated into** calibration and validation groups **as part of** calibration and validation procedures
+
+temporally
+
+The simplest **approach for** selecting
+
+parallel processing
+
+## Data bearbeiten / Forschungsbebiet / Study area
+
+### Deutsch
+
+### English
+
+sliding window
+
+cross-validation
+
+autocorrelation
+
+We **performed our assessment on** three watersheds
+
+## Result / Ergebnis
+
+### Deutsch
+
+### English
+
+Results were then **aggregated** to monthly means for comparisons.
+
+We **found that** the selection of calibration and validation periods with the temporal split-sample approach **can affect** the sample size and distributions of observed streamflow data for calibration and validation groups
+
+The **cause for** this was **due to** differences in groundwater flow
+
+This research shows that
