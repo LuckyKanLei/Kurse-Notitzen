@@ -1,0 +1,11 @@
+# Regionale Hydrologie
+
+Inhalt des Moduls sind die Aspekte der Regionalisierung hydrologischer Größen, des Maßstabsproblems in der Hydrologie und der regionalen Bestimmung hydrologischer Parameter in unbeobachteten Gebieten.
+
+## Moorhydrologie für Hydrologen
+
+In diesem Abschnitt ist eine Zusammenfassung aus dem Vertrag "Moorhydrologie für Hydrologen" [@S-REG-Moor].
+
+### Allgemeine Begriff
+
+Moore sind "Landschaften ..., in denen **Torf gebildet** wird oder oberflächig anseht. Es werden damit auch *Lebensräume* eingeschlossen, in dennen noch **kiene deutlichen Torfschichten vorhanden** sind, ..., in denen jedoch **Torfbildung möglich** ist." (Joosten and Succow 2001, S. 2)
