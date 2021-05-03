@@ -85,6 +85,74 @@ Umwelt- und Naturschutzprobleme steigen mit Grad der Degradierung
 
 In der Anfangsphase meist als Flächenbrände --= schwarzes Land
 
-Torfbrände in der fortgeschrittenen Phase, meist in entwässerten Mooren als besonders extreme Moordegeneration =-- wasserstands- und feuchte-anhängig
+Torfbrände in der fortgeschrittenen Phase, meist in entwässerten Mooren als besonders extreme Moordegeneration =-- wasserstands- und feuchte-anhängig.
 
-=-- Moorbrände auch in Mitt
+Pyroyse auch bei Saustoffabschluss und bei scheinbar gelöschtem Brand
+
+"Glutnester" meist in der Pyrolysezone, auch beim Torfkoks.
+
+Gringe Wärmeleitfähigkeit von Torf =-- "Glutnester" können überwintern und Brandherd kann im Frühjahr/ Sommer wieder erneut "auflammen"
+
+### Vegetations-Wasser-Abhängigkeiten
+
+Durch den Torfbildungsprozeße sind stabile Vegetationsformen sowohl Folge als auch Ursache satndörtlicher hydrologischer eigenschaften. deshalb ist der Zusammenhang zwischen hydrologiscchen eigenschaften und Vegetationsbedeckung in wachsenden Mooren besonders eng.
+
+### Wasserstand und klimarelevante Gase
+
+Kohlendiocid, Methan, Lachgas
+
+gasaustauschen
+
+### Hydraulik von Moorböden und Torf
+
+#### Akrotelm (oberflächenah natärl. Moor)
+
+Entwässerbare Porosität (Speicherkoeffizient)
+
+$$
+n_e(z)=n_{Kat}+(n_0-n_{Kat})\cdot e^{\frac{-z}{m}}
+$$
+
+Hdraulische Leitfähigkeiten: (Edom et al. 2007)
+
+$$
+k_f(z)=k_{Kat}+(k_0-k_{Kat})\cdot e^{\frac{-z}{m}}
+$$
+
+(Edom 2001)
+
+$$
+k_f(z)=\frac{k_0}{(z+1)^m}
+$$
+
+#### Katotelm
+
+Abhängig von Torfart, Humositätsgrad / Zersetzungsgrad H, substanzvolumen SV. (succow & Joosten 2001)
+
+Veränderungen kf-Werte mit der Zeit
+
+"Durch Oxidationsprozesse ... und Druck ... verändern sich die hydraulischen Eigenschaften des torfs, insbesondere verändern (meist verringern)sich die ... hydraulische Leitfähigkeit." (Edom 2001)
+
+Kosov 1987:
+
+$$
+k_f=k_0(T+1)^{-m_{KOS}}
+$$
+
+$T$ ist ENtwässerungszeit in Jahren, $m_{KOS}$ von Entwässerungsität und Torfart abhängiger Koeffizient
+
+Unndin 1964:
+
+$$
+k_f=k_0\cdot e^{-cz_E}
+$$
+
+$z_E$ in m für Landwirdschaft und Düngung, $c$ ist die Koeffizient zur Brücksichtigung der Zeit
+
+![](fig/REG/c_kf_range.JPG)
+
+## Die hydroloisch relevante Raumstruktur eines Torfkörpers
+
+![](fig/REG/moor_sturktur.JPG)
+
+Bild aus Kript [@S-REG-Moor].
