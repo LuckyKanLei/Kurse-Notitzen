@@ -109,24 +109,24 @@ Landdegradation
 
 ## CO2-Düngeeffekt
 
-Antieg der regional differenzierten Karkonisationsrate in den
+Anstieg der regional differenzierten Karbonisationsrate in den
 wichtigsten Nahrungsmittelpflanzen bei einer Erhöhung der
 atmosphärischen CO2-Konzentation um 100 ppm.
 
-"Ergünunug" der Erde durch CO2-Düngung $\rightarrow$ Zunahme der
-Biomasse (LAI)
+"Ergünunug" der Erde durch CO2-Düngung $\rightarrow$ **Zunahme der
+Biomasse** (LAI)
 
 Kompensation des anthropogenen, CO2-Anstieges in der Zukunft durch mehr
 C-Aufnahme der Pflanzen:
 
--   Antsieg der Respiration
+-   Antsieg der **Respiration**
 
--   Sättigungseffekt (Anpassung der Pflanzen an SO2-Anstieg, Nachteil
-    für C4-Pflanzen)
+-   **Sättigungseffekt** (Anpassung der Pflanzen an CO2-Anstieg,
+    Nachteil für C4-Pflanzen)
 
--   Limitiertes Nähstoffangebot im Boden
+-   Limitiertes **Nähstoffangebot** im Boden
 
--   Änderung Wasserhaushalt (Limitierung durch Trockenheit)
+-   Änderung **Wasserhaushalt** (Limitierung durch Trockenheit)
 
 ## Systemkomponenten
 
@@ -142,12 +142,15 @@ merge layer \| 3**h~v~**
 
 vegetation \| **h~v~**
 
+![](fig/BPA/komponent.jpg)
+
 ## Energie- und Stoffflüsse
 
 Unterschied zur unbewachsenen Oberfläche:
 
--   primäre Energieumsatzfläche (meidt) nicht mehr am Erdboden, sondern
-    im Breich der maximalen Konzentration an Biomasse der Vegetation
+-   *primäre Energieumsatzfläche* (meist) nicht mehr am Erdboden,
+    sondern im Bereich der maximalen Konzentration an **Biomasse** der
+    Vegetation
 
 -   sekundäre Umsatzfläche an der Erdoberfläche
 
@@ -173,22 +176,22 @@ Umsatzfläche, $f_v$: Vegetationsanteil des Landschaftsausschnitts
 
 ### Strukturparameter der Vegetation:
 
-1.  Kronenschlussgrad: Anteil des durch Vegetation überdeckten
+1.  **Kronenschlussgrad**: Anteil des durch Vegetation überdeckten
     Himmelsbereich
 
 ![](fig/BPA/kronenschlussgrad.JPG)
 
 Bild aus Skript[@S-BPA]
 
-2.  Bestandeshöhe: mottlere Wuchshöhe der Vegetation (**h~v~**)
-3.  Blattflächendichete (leaf area density, plant area density)
+2.  **Bestandeshöhe**: mottlere Wuchshöhe der Vegetation (**h~v~**)
+3.  **Blattflächendichete** (leaf area density, plant area density)
 
 $$
 LAD=\frac{Gesamtoberfläche\,der\,Blätt\,(Vegetationselemente)}{Einheitsvolumen} \bigg[\frac{m^2}{m^3}\bigg]
 $$
 
-4.  (kumalativer) Blattflächenindex ((cumulative) leaf area index, plant
-    area index)
+4.  (kumalativer) **Blattflächenindex** ((cumulative) leaf area index,
+    plant area index)
 
 $$
 LAI=\frac{Gesamtoberfläche\,der\,Blätt\,(Vegetationselemente)}{Grundfläche^*} \bigg[\frac{m^2}{m^2}\bigg]
@@ -206,8 +209,8 @@ $$
 CLAI(z)=\int_z^{h_v}LAD(z'){\rm d}z'
 $$
 
-5.  Albedo
-6.  Formwiderstand (form drag)
+5.  **Albedo**
+6.  **Formwiderstand** (form drag)
 
 $$
 c_d=\frac{\tau_0}{\rho \int_0^{h_v} u(z)^2 LAD(z){\rm d}z}
@@ -226,7 +229,7 @@ Bild aus Skript[@S-BPA]
 
 #### Strahlung
 
-1.  Kurzwellige Absorption
+1.  **Kurzwellige Absorption**
 
 Beersches Gesetz:
 
@@ -251,7 +254,7 @@ $$
 
 -   Großenverteilung
 
-2.  langwellige Strahlung
+2.  **langwellige Strahlung**
 
 Absorption und Reemission der biomasse, abhängig von kurzwelliger
 Strahlungsbilanz, Temperatur und Vegetaionsanteil an Gesamtoberfläche.
@@ -266,12 +269,12 @@ $\sigma_V=1-e^{0.5LAI}$ Abschttungsfaktor für isotrope Strahlung,
 $\epsilon_S$, $\epsilon_V$, $\epsilon_A$: Emissivität von Erdoberfläche,
 Vegetation und Atmosphäre.
 
-3.  Strahlungbilanz
+3.  **Strahlungbilanz**
 
 -   Kombination des Vegetationseinflusses auf kurzwellige und
     langwellige Bilanz, dominiert von kurzwelliger Absorption
 
--   häufig Anwendung des Beerschen Extinktionsansatzes für die
+-   häufig Anwendung des Beerschen **Extinktionsansatzes** für die
     strahlungsbilanz
 
 Ansatz nach Impens und Lemeur, 1969:
@@ -307,8 +310,8 @@ Strahlungsregime:
 
 #### Feuchte
 
-Feuchteregime des Vegetationsraumes abhängig von Unterlage (Evaporation)
-und Aktivität der Biomasse (Transpiration)
+Feuchteregime des Vegetationsraumes abhängig von **Unterlage
+(Evaporation)** und **Aktivität der Biomasse (Transpiration)**
 
 ![](fig/BPA/feuchte.JPG)
 
@@ -316,7 +319,8 @@ und Aktivität der Biomasse (Transpiration)
 
 #### Wind
 
-Windregime des Vegetationsraumes abhängig von der Vegetationsverteilung
+Windregime des Vegetationsraumes abhängig von der
+**Vegetationsverteilung**
 
 ![](fig/BPA/wind.JPG)
 
