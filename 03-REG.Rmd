@@ -139,7 +139,9 @@ $$
 k_f=k_0(T+1)^{-m_{KOS}}
 $$
 
-$T$ ist ENtwässerungszeit in Jahren, $m_{KOS}$ von Entwässerungsität und Torfart abhängiger Koeffizient
+$T$ ist ENtwässerungszeit in Jahren;
+
+$m_{KOS}$ von Entwässerungsität und Torfart abhängiger Koeffizient
 
 Unndin 1964:
 
@@ -151,8 +153,171 @@ $z_E$ in m für Landwirdschaft und Düngung, $c$ ist die Koeffizient zur Brücks
 
 ![](fig/REG/c_kf_range.JPG)
 
-## Die hydroloisch relevante Raumstruktur eines Torfkörpers
+### Die hydroloisch relevante Raumstruktur eines Torfkörpers
 
 ![](fig/REG/moor_sturktur.JPG)
 
 Bild aus Kript [@S-REG-Moor].
+
+### Klimarelevante Umgebung
+
+Strahlungsfilterung Romanov-Gleichung (Romanov 1961):
+
+$$
+ET_{Mire}=\alpha \cdot RN+Adv
+$$
+
+#### Strahlung Bilanz
+
+$$
+RN=R_K-R_L
+$$
+
+Kurzwellige Einstrhlung $R_K$ (s. Dzck 1980b, Dvwk 1996):
+
+$$
+R_K=(1-\mu)\cdot R_{G}=(1-\mu)\cdot R_{ex}\cdot [0.19+0.55(1-w)(1-b_a)(1-b_i)]
+$$
+
+(Edom 2001)
+
+$\mu$: Albedo (Reflexionsvermögen) der Mooroberfläche;
+
+$R_G$: beschattungsreduzierte Globalstrahlung, die im Falle $b_a=b_i=0$ (keine Beschattung) der üblichen Globalstrahlung entspricht;
+
+$R_{ex}$: extraterrestrische Strhlung (s. Dzck 1980b, Dvwk 1996);
+
+$(1-w)\cong h/H=t_s$: relative Sonnenscheindauer;
+
+Langwellige Ausstrahlung $R_L$ von Mooroberflächen (nach Bavina 1967 und Autoermkollektiv 1976):
+
+$$
+R_L=\sigma T_M^4\cdot {\rm f}(W)\cdot {\rm g}(e)=\sigma T_L^4\cdot {\rm f}(W)\cdot {\rm g}(e)+\Delta R_L
+$$
+
+$\sigma=5.67\times10^{-8} \;[{\rm J/(m^2K^4s)}]$: Stefan-Boltzmann-Konstante;
+
+$T_M,\,T_L\;[{\rm K}]$: Temperatur der Moorbodenoberfläche, Lufttemperatur in 2m Höhe;
+
+${\rm f}(W)$: Bewölkungsfunktion nach Efimova (1961) mit:
+
+$$
+{\rm f}(W)=1-{\rm c}(\varphi)\cdot W \cong (1-{\rm c}(\varphi))+{\rm c}(\varphi)\cdot t_s
+$$
+
+${\rm c}(\varphi)$: von der geographischen Breite $\varphi$ abhängiger Koeffizient, wobei zwischen $45^\circ$ und $75^\circ$nördlicher Bereite gilt:
+
+$$
+{\rm c}(\varphi)=0.7+0.004(\varphi-45)
+$$
+
+Aber bei allen Penman-Monthith (Penman 1948):
+
+$$
+{\rm f}(W)=0.1+0.9t_s
+$$
+
+${\rm g}(e)$: Dampfdruckfunktion nach Efimova (1961), in Mitteleuropa die Dampfdruckfunktion (auch Nettoemissivität) der FAO-Richtlinie (s. Doorenbos & Pruitt 1997, Dvwk 1996, Dyck & Peschke 1995) anwendbar:
+
+$$
+{\rm g}(e)_{FAO}=0.34-0.044\sqrt{e}
+$$
+
+$e$: Dampfdruck der Luft in 2m Höhe in [hPa];
+
+$\Delta R_L$: Ausstrahlungsverbesserung auf den Temperaturunterschied $\Delta T$ zwischen Moorboden- und Lufttemperatur für satbile Luftschichtung (Bavina):
+
+$$
+\Delta R_L\cong 4\sigma T^3\Delta T
+$$
+
+| Symbol       | Moor       | Apr. | Mai. | Jun. | Jul. | Aug. | Sep. | Okt. | Quelle    |
+|--------------|------------|------|------|------|------|------|------|------|-----------|
+| Albedo $\mu$ | Hochmoor   | 0.16 | 0.16 | 0.16 | 0.16 | 0.16 | 0.16 | 0.18 | kollektiv |
+|              | Niedermoor | 0.10 | 0.17 | 0.2  | 0.2  | 0.2  | 0.18 | 0.16 | 1976      |
+| $\Delta T$   | Hochmoor   | 0    | 0.9  | 1.4  | 1.4  | 0.6  | 0    | -0.9 | Bavina    |
+|              | Niedermoor | 0.7  | 1.6  | 1.8  | 1.4  | 1.2  | 0.2  | -0.4 | 1967      |
+
+#### Advektive Effekte
+
+Für große Moore, Zentren großer Moore, windgeschütze Moore, Moore in feuchten oder kalten Regionen (Romanov 1962):
+
+$$
+Adv=0
+$$
+
+$$
+ET_{Mire}=ET_\infty 
+$$
+
+Für kleine Moore, Randbereiche großer Moore, windexponierte Moore, Moore in trockenen oder Warmen Regionen **Advektion kann dedeutend sein** (Bavina 1967):
+
+$$
+ET(x)=ET_\infty+(ET_0-ET_\infty)\cdot e^{-n_ax}
+$$
+
+na=??? (Versinin 1976)
+
+### Innere Hydrostruktur vertikal
+
+![](fig/REG/inner_moor_str.png)
+
+-   Bodenzonierung
+
+    -   Enge hzdrauliche Schichtung in natürlichen und degradierten Moorböden
+
+    -   Schnelle zeitliche Veränderlichkeit
+
+    -   Hohe räumliche Heterogenität
+
+-   Torfschichtung (Katotelm)
+
+    -   Hydaulische Schichtung nach Torfart und Humifizierung (Zersetzung), Anisotropie
+
+    -   Hydraulische Fenster, stauende und durchlässige Schichten
+
+### Innere Hydrostruktur horizontal
+
+Hydromorphologie ist der Teil der Geomorphologie, der sich mit den wassergeprägten Formenelementen der Landschaft und ihren Interaktionen beschäftigt. Ein Moor sowie seine Teile sind wassergeprägte Formenelmente.
+
+Die Verbindung mit Methoden der quantitativen Hydrologie erlaubt die Erklärung ursächlicher Zusammenhänge, die mathematische Modellierung und die Prognose von wassergeformten Landschaftselementen.
+
+#### Natürliche Moore
+
+In wachsenden Mooren ist das Mesorelief der Mooroberfläche weitgehend parallel zur Moorwasserspiegeloberfläche. Deswegen können die Mesoreliefformen der Moore ebenso wie die Oberfläche des Grundwasserkörpers mit den Methoden der Geohydraulik beschrieben werden. (Edom 2001)
+
+![](fig/REG/moorsegment.png)
+
+(Ivanov 1975):
+
+$$
+\frac{{\rm d}y}{{\rm d}l}(s)=\frac{q_0b_0+\int_0^sp_lb_l\,{\rm d}l}{M_z(s)b_s}=\frac{q_0b_0+\int_0^sp_lb_l\,{\rm d}l}{b_s\int_{z_u}^{z_m}k_f(z){\rm d}z}
+$$
+
+![](fig/REG/sektor.png)
+
+Für jedes Segment eines Sektors berechnet sich aus der langjährigen mittleren Wasserbilanz (Edom & Golubcov 1996):
+
+der spezifische Profildurchfluß:
+
+$$
+q_s(i)=\frac{q_0b_0}{b(i)}+\frac{\sum_{j=1}^i[A_j(P+q_{GW}-ET)_j]}{b(i)}
+$$
+
+die erforderliche (regenerierende, selbsttregulierte) durchströmte Transmissivität (Torfkörper oder Akrotelm):
+
+$$
+T_S(i)=\frac{q_0b_0}{b(i)\frac{{\rm d}y}{{\rm d}l}(i)}+\frac{\sum_{j=1}^i[A_j(P+q_{GW}-ET)_j]}{b(i)\frac{{\rm d}y}{{\rm d}l}(i)}
+$$
+
+der genetische Mineralwasseranteil (Minerogenie-Quaotient):
+
+$$
+H_O(i):=\frac{q_0b_0+\sum_{j=1}^i[A_jq_{GW}(j)]}{q_0b_0+\sum_{j=1}^i[A_j(P+q_{GW}-ET)_j]}
+$$
+
+der trophische wirksame Mineralwasseranteil (Minerogenie-Quaotient):
+
+$$
+H_U(i):=\frac{q_0b_0+\sum_{j=1}^i[A_jq_{GW}(j)]}{q_0b_0+\sum_{j=1}^i[A_j(P+q_{GW})_j]}
+$$
