@@ -244,3 +244,49 @@ Prozesse der Bodenentwicklung:
 8.  Versalzung
 9.  Turbationen
 10. Stoffumlagerungen in der Landschaft
+
+## Übung
+
+### Bodeneingenschaft (Übung 1)
+
+![](fig/BWH/b_volum_gewicht.png)
+
+![](fig/BWH/b_eigenschaft.png)
+
+```{r, echo=FALSE}
+kantenlange = 10 # cm
+m_ = 1460 # g
+m_w = 260 # g
+rho_w = 1 # g/cm3
+rho_f = 2.65 # g/cm3
+
+m_f <- m_ - m_w
+
+v_ <- kantenlange^3 # cm3
+v_f <- m_f / rho_f
+v_w <- m_w / rho_w
+v_p <- v_ - v_f
+v_l <- v_p - v_w
+
+## Wasser
+theta_v <- v_w / v_ # -
+theta_m <- m_w / m_f # -
+Theta_w <- v_w / v_p # -
+## Luft
+theta_l <- v_l / v_ # -
+Theta_w <- v_l / v_p # -
+## Porenraum
+eta_ <- v_p / v_ # -
+e_ <- v_p / v_f # -
+## Feststoff
+theta_matrix <- v_f / v_ # -
+rho_b <- m_f / v_ # g/cm3
+rho_s <- m_f / v_f # g/cm3
+
+## result
+theta_m
+theta_v
+rho_b
+eta_
+e_
+```
