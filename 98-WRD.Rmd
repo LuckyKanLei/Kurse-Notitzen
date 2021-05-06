@@ -78,6 +78,20 @@ the unmeasured water balance components should **be aware of** how much they can
 
 This **highlights the importance of careful** calibration period choice
 
+## Result / Ergebnis {.unnumbered}
+
+### Deutsch {.unnumbered}
+
+### English {.unnumbered}
+
+Results were then **aggregated** to monthly means for comparisons.
+
+We **found that** the selection of calibration and validation periods with the temporal split-sample approach **can affect** the sample size and distributions of observed streamflow data for calibration and validation groups
+
+The **cause for** this was **due to** differences in groundwater flow
+
+This research shows that
+
 ## Model Modell {.unnumbered}
 
 ### Deutsch {.unnumbered}
@@ -124,9 +138,11 @@ The simplest **approach for** selecting
 
 parallel processing
 
-## Boden {.unnumbered}
+## Boden / Moore {.unnumbered}
 
 ### Deutsch {.unnumbered}
+
+speisen, Torfkörper wird nicht vom GW gespeist.
 
 ### English {.unnumbered}
 
@@ -144,16 +160,4 @@ autocorrelation
 
 We **performed our assessment on** three watersheds
 
-## Result / Ergebnis {.unnumbered}
-
-### Deutsch {.unnumbered}
-
-### English {.unnumbered}
-
-Results were then **aggregated** to monthly means for comparisons.
-
-We **found that** the selection of calibration and validation periods with the temporal split-sample approach **can affect** the sample size and distributions of observed streamflow data for calibration and validation groups
-
-The **cause for** this was **due to** differences in groundwater flow
-
-This research shows that
+##  {.unnumbered}
