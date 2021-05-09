@@ -234,7 +234,7 @@ In einem Boden laufen ständig Stoffumwandelungen und Stoffverlagerungen ab, die
 
 Prozesse der Bodenentwicklung:
 
-1.  Verwitterung und Mineralbildung
+1.  Verwitterung (Einfluss des Wetters) und Mineralbildung
 2.  Bildung von Humusformen
 3.  Gefügebildung
 4.  Tonverlagerung
