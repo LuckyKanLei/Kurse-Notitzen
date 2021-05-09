@@ -321,3 +321,131 @@ der trophische wirksame Mineralwasseranteil (Minerogenie-Quaotient):
 $$
 H_U(i):=\frac{q_0b_0+\sum_{j=1}^i[A_jq_{GW}(j)]}{q_0b_0+\sum_{j=1}^i[A_j(P+q_{GW})_j]}
 $$
+
+#### Anthropogen gestörter Moore
+
+Relief, Stromlinien, Gräben und Torfmächtigkeit in der Solbrigshaide (Erzgebirge)
+
+1.  Geodätische Aufnahme des gesamten aktuellen Reiliefs und Graben- und Gewässernetzes
+2.  Konstruktion der Stromlinien
+3.  Konvergent $\rightarrow$ Zunahme des Profildurchflusses: Erklärung für (potentiell) naürliche Moorentwässerung (Rüllen, Bäche, Karst) und rheotrophische Phänome
+4.  Divergent $\rightarrow$ Abnahme des Profildurchflusses: Erklärung für (potenziell) wachsende Ombrotrophie; häufig in zentralen, "moor-typischen" Bereichen
+
+Quantitative hydromorphologische Analyse:
+
+-   spezifische Profildurchlässigkeit (Solbrigshaide) [L/(s km)]
+
+-   Potentielle oder erforderliche Transmissivität [cm2/s]
+
+    -   Nach Vernässung: Wasserkonzentration in Strömungsrinnen und Senken, Wasserarmut in aufgewölbten oder divergenten Bereichen
+
+-   Minerotrophie-Quotient (Hangwasseranteil)
+
+### Probleme bei unzureichend hydrologisch fundierten Moorvernässungsprojekten
+
+1.  Zuviel Wasser:
+
+    -   Wasser steigt zu stark oder nach an ungewünschten Stellen (benachbarte Nutzflchen, Gräten, Häuser / Keller, Infrastruktur) an bzw. geht ungewünscht die Moorvernässung verloren
+
+    -   neue, ict erwartete Wasserläufe bzw. -fließbahnen oder hydraulischer urzscluss
+
+    -   Erosion in oder um die Staue bzw. im (vernässten) Torf
+
+    -   Entstehung unerwünschter Methanquellen bzw. unerwünschter (zeitweiliger) Stoffauswaschungen
+
+2.  Zu wenig Wasser
+
+    -   Wasser steigt überhaupt oder nicht bis zum gewünschten Niveau an (oder) fließt andenorts ab
+
+    -   Der Wasserentstieg an einem Ort für zur Entwässerung eines anderen
+
+### Moorspezifische Wasserhaushaltsprozesse:
+
+#### Statischer Speichervorrat:
+
+-   Gesamtes Wasservolumen des Katotelm: 85 - 95 Vol. %
+
+-   Sinkt mit Moorentwässerung (Katotelmobergrenze) bzw. Komprimierung
+
+dynamische Speichervorratsänderung:
+
+$$
+\Delta S=\Delta S_{Hy}+\Delta S_{Pfl}
+$$
+
+$\Delta S_{Hy}$: Hydrolodynamisch wirksamer speicher;
+
+$$
+\Delta S_{Hy}=\Delta S_{Wk}+\Delta S_{Pv}+\Delta S_{Mu}+\Delta S_{Fl}
+$$
+
+$\Delta S_{Wk}$: Dynamischer Wasserkissenspeicher
+
+$\Delta S_{Pv}$: Dynamischer Porenwasserpeicher
+
+$\Delta S_{Mu}$: Muldenpeicher zwischen Mikroreliefelementen
+
+$\Delta S_{Fl}$: Zeitweiliger Überflutungsspeicher
+
+$\Delta S_{Pfl}$: Pflanzenphysiologisch wirksamer speicher.
+
+#### Dynamischer Speicherprozess
+
+Für die Bewegungen der Mooroberfläche sind Gewichtskraft, Auftrieb, Druckspannungskraft und Zugspannungskraft veranlwortlich. Die Gewichtskraft ($G$) beruht auf der Masse der Bodenteilchen. Dabei isl das Gewicht der über dem Grundwasserspiegel und der unter dein Grundwasserspiegel liegenden Partikel zu unterscheiden, Bei letzteren wird vom Eigengewicht der unter Wasser liegenden Teile ($G_P$) gesprochen. Das Gewicht aller Kompartimente über dem Grundwasserspiegel sei Auflast ($G_{üw}$) genannt. Von $G_{üw}$, getrennt betrachtet wird die Auflast von Bäumen und anthropogenen Elementen ($G_{BA}$). Auftrieb erfährt nach dem Archimedischen Prinzip jeder in eine Flüssigkeit eingetauchte Körper. Die Auftriebskraft ($F_A$), entspricht dem Gewicht der von ihm verdrängten Flüssigkeitsmenge. Je nachdem, ob $F_A$ im Vergleich zum Gewicht des Körpers größer, kleiner oder gleich ist, spricht man von Steigen, Sinken oder Schweben. Ein schwebender Körper verdrängt also genau die Wassermenge, die seinem igengewicht entspricht. Er hat dann, wie Wasser, die Dichte 1. Druckspannungskraft ($F_{DT}$) und Zugspannungskraft ($F_{ZT}$) beschränken die vertikale Verformung eines Körpers und werden unter dem Begriff der "Normalspannungskraft" zusammengefaßt. Hierbei wirkt F„ einer Komprimierung, $F_{DT}$ einer Dehnung entgegen.
+
+![](fig/REG/moor_wasserstand.png)
+
+$$
+F_A+F_D=G_P+G_{üW}+G_AB+F_ZT
+$$
+
+#### Abflussbildung in Mooren: Postulate
+
+Die hydaulik entwässerter Moorböden ist anders. Die Abflusskonzentration verläuft schneller wegen dichtem Grabennetz.
+
+-   Moore reagieren je nach Hydromorphologie, hydraulischer struktur, landschaftlicher Position, ausgangswasserständen und Aufbau des Grabennetzes individuell.
+
+-   In den HW-relevanten Moorlandschdten Mitteleuropas haben die Moore die geringsten Gefälle (nicht die HW-tragende Landschaft)
+
+-   In der Mehrzahl sind natürliche oder revitalisierte Moore vermutlich (und Flusstalmoore sicher) abflussausgleichend
+
+Bei hohen Wasserstände hohe Prositäten und Leitfähigkeit: kurzzeitiges hohes Speichervermögen, relativ schneller abfluss; bei niedrigen Wasserstände geringe Prositäten und Leitfähigkeit: langsamer Abfluss bis zum Versiegen.
+
+### Ökohydrologie
+
+Durch den Torfbildungsprozess sind stabile Vegetationsformen sowohl Folge als auch Ursache standörtlicher hydrologischer Eigenschaften. Deshalb ist der Zusammenhang zwischen hydrologischen Eigenschaften und Vegetationsbeckung in Mooren besonders eng. (Edom 2001)
+
+Moorrelevante FFH-Lebensraumtypen (LRT)
+
+![![](fig/REG/ffh.png)]()
+
+#### Prblem bei der derzeitigen Interpretation der FFH-RL
+
+1.  Kartier- und Bewertungsschlüssel für Lebensraumtypen sind vorwiegend auf vegetationskundlicher Grundlage erstellt. QUalifizierte abiotische Betrachtung (Hydrologie, Torfe) fehlt bis auf seltene Ausnahmefälle (Sondergutachten).
+2.  Räumliche Zusammenhänge zwischen den LRT und auch anderen Mooren werden vorwiegend aus Gründen des Artenschutzes (Biotop-Verbund) betrachtet. $\rightarrow$ Wechselwirkungen sowie gegenseitige Beeinflussungen durch fließendes Wasser können nicht hinreichend beurteilt werden.
+
+#### Vorschlag erweiterter Begriffe
+
+-   gLRT, (moor-) genetischer LRT - Vergangenheit:
+
+    -   Der Lebensraumtyp am Standort, der das anthropogen unbeeinflußte Entwicklungsstadiu des Moores am Ort repräsentiert. Zu ermitteln anhand der oberflächennahen Torfe bzw. der Torfe unterhalb der degradierten Bodenhorizonte.
+
+-   vLRT, vegetationskundlich LRT - Gegenwart:
+
+    -   Der nach vegetationskundlichen Kriterien ausgewiesene Lebensraum, meist nach den Kartiervorschriften der EU-Mitgliedsländer festgelegt.
+
+-   hLRT, hydromorphologischer LRT - Zukunft (nach Moorregeneration):
+
+    -   die aus einer hydromorphologischen analyse und Modellierung abzuleitenden Entwicklungspotenziale (Edom & Golubcov 1996a, b)
+
+### Hydromorphologisches Modell des Torfwachstums
+
+$$
+\frac{{\rm d}y}{{\rm d}l}(s)=\frac{q_0b_0+\int_0^sp_lb_l\,{\rm d}l}{b_s\int_{z_u}^{z_m}k_f(z){\rm d}z}
+$$
+
+Element-Akkumulation im akrotelm
+
+$$
+\Pi_M(s)A_s=\int_0^s\Pi_M(l)b_l{\rm d}l=q_0b_0c_0+\int_0^s(Pc_p+q_{GW}c_{GW}D_{tr}-E_G)b_l{\rm d}l-q_sb_sc_s
+$$
