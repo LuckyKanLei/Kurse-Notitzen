@@ -376,7 +376,7 @@ $$
 
 ```{r}
 LAD1 <- read.table("F:\\OneDrive\\Kurse\\Boden_Pflanze_Atmos\\LAD1.dat", skip = 1)
-LAD2 <- read.table("F:\\OneDrive\\Kurse\\Boden_Pflanze_Atmos\\LAD2.dat", skip = 2)
+LAD2 <- read.table("F:\\OneDrive\\Kurse\\Boden_Pflanze_Atmos\\LAD2.dat", skip = 1)
 
 R_G = 900 # W/m2
 gamma_ = 60 # deg
@@ -390,7 +390,7 @@ a_V = 0.1
 LAI_LAD <- function(LAD_, z_){
   LAD_i1 <- c(LAD_[-1], 0)
   z_i1 <- c(z_[-1], 0)
-  LAI_ <- 0.5 * (LAD_ + LAD_i1) * (z_ + z_i1)
+  LAI_ <- 0.5 * (LAD_ + LAD_i1) * (z_ - z_i1)
   return(LAI_)
 }
 dx_dz <- function(x_, z_){
