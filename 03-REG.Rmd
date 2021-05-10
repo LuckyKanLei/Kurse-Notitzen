@@ -444,8 +444,20 @@ $$
 \frac{{\rm d}y}{{\rm d}l}(s)=\frac{q_0b_0+\int_0^sp_lb_l\,{\rm d}l}{b_s\int_{z_u}^{z_m}k_f(z){\rm d}z}
 $$
 
-Element-Akkumulation im akrotelm
+Element-Akkumulation im akrotelm:
 
 $$
 \Pi_M(s)A_s=\int_0^s\Pi_M(l)b_l{\rm d}l=q_0b_0c_0+\int_0^s(Pc_p+q_{GW}c_{GW}D_{tr}-E_G)b_l{\rm d}l-q_sb_sc_s
 $$
+
+Kombination:
+
+$$
+\frac{\Pi_{M-a}(s)A_s}{c_{s-a}^r-c_{s-a}}=\frac{{\rm d}y}{{\rm d}s}b_s\int_{z_U}^{z_m}k_f(z){\rm d}z
+$$
+
+### Moortypen / -klassifikation
+
+-   Hochmoore: Torfmoos- und Wollgrastorfe, ombrogene Wasserspeisung, oligotrophe Vegetation.
+
+-   Niedermoore: Riedtorfe, geogene Wasserspeisung, meso- bis eutrophe Vegetation Weitgehend gültig in sehr ebenen landschaften wie Niederlanden oder Niedersachsen.
