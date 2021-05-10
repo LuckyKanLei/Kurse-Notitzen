@@ -120,6 +120,162 @@ Flood event risk reduction:
 
 Post-flood risk reduction:
 
+## Rainfall climatology and Climate Change
+
+Zusammenfassung aus [@S-FRM1-1].
+
+### Means and Extremes
+
+variability
+
+-   Spatial variability: smaller (regional and local) variability
+    dominates; influences of orography, exposure to general circulation
+    pattern and influence of temperature (latitude).
+
+-   Time variability: Periodic cahnges (e.g. seasonal cycle); Aperiodic
+    changes (e.g. short events $\rightarrow$ high intensity)
+
+-   Precipitation extremes: frequency and probability
+
+#### Recurrence interval:
+
+Pe: exceedence probability
+
+Pc: cumulative probability, Pc = 1 - Pe
+
+T: Return period, T = 1/Pe, indicates the expected number of years that
+need to be considered to find the value of the variable in study.
+
+TU: The upper confidence of return periods can be found respectively as:
+TU = 1/(1-U)
+
+TL: The lower confidence of return periods can be found respectively as:
+TL = 1/(1-L)
+
+#### Rainfall Distribution in context
+
+Stratiform Precipitation:
+
+Low indensity, long lasting (\> 6h), wide spread $\rightarrow$ pre-event
+moisture
+
+Convective Precipitation:
+
+High intensity (Starkregen \> 17 mm/h, Wolkenbruch \> 60 mm/h), short
+duration (\> 6 h), small scale $\rightarrow$ flash floods
+
+Starkniederschlag:
+
+![](fig/FRM1/strakregen.png)
+
+#### Statistics of precipitation extremes
+
+Basic: long-term series of mearsured precipitation (30 a not enough, if
+possible 100 a or more)
+
+Example for constructing:
+
+1.  Sorting the serices (Max $\rightarrow$ Min) per year
+2.  Selection of the maxima of each year
+3.  Result: a series of annual precipitation maxima
+4.  Adaptation of theoretical distribution of extremes (Gumbel) to the
+    measured precipitation series by regession
+
+### Climate Change
+
+Background: Green House Effect
+
+GHG(Green house gases):CO~2~, CH~4~, N~2~O, O~3~, FCCH, etc.
+
+![](fig/FRM1/ghe.png)
+
+Bild aus [@S-FRM1-1].
+
+Main excepted characterisics
+
+-   Sea level rise
+
+-   Higher temperatures - espesisally on land
+
+-   Hydrological cycle more intense
+
+-   Changes at regional level can differ (but hard to tell)
+
+#### Extreme precipitation
+
+1.  Statistical approach: Probability distribution fitted to the full
+    data sample used instead
+2.  design precipitation, SHP(D, T) = height(duration, return)
+
+![](fig/FRM1/prec_design.png)
+
+Bild aus [@S-FRM1-1].
+
+## Hydrological aspects of climate change
+
+Zusammenfassung aus [@S-FRM1-2].
+
+### Snow
+
+Snow parameters:
+
+-   snow cover duration
+
+-   snow cover time
+
+-   continuance of the longst snow cover period (winter cover)
+
+-   beginning (date) of the maximum snow vover depth
+
+-   constancy of the snow cover
+
+-   retention of the winter cover
+
+-   maximum value of the water euivalent of the snow cover
+
+### Model Chain Insecurity GCM-RCM
+
+Emissionsszenario $\rightarrow$ Globales Klimamodell (GCM) $\rightarrow$
+Regionales Klimamodell (RCM) $\rightarrow$ Wasserhaushaltmodell (WHM)
+
+![](fig/FRM1/model_chain.png)
+
+![](fig/FRM1/cm_wbm.png)
+
+Bilder aus [@S-FRM1-2].
+
+## Physical Processes of Floods
+
+Zusammenfassung aus [@S-FRM1-2].
+
+### Modern weather forecast
+
+-   Computer based caculation of time-dependent change (prognosis) of
+    all relevant atmospheric quantities (wind, temperature, humidity,
+    density, pressure)
+
+-   Solving of a system of non-linear differential equations including
+    the above mentioned quantities
+
+-   Computer simulation satrts with predescribed innitial conditions,
+    and the caculation ends with one final solution (deterministic
+    model)
+
+### Types and temporal ranges of weather forecast
+
+-   Nowcasting: Next two hours, onlky use of observations (e.g.,
+    tracking algorithms for echoes in radar images), without
+    representation of atmospheric physics, e.g., assumption of
+    persistence
+
+-   Short-range: 18-24 hours, daily weather
+
+-   Medium-range: 3-10 days, weather for the week ahead
+
+-   Long-range: \> 10 days, further outlook; Comparison of cumulative
+    precipitation forecast of one simulation for different models
+    $\rightarrow$ measure of uncertainty
+
 ------------------------------------------------------------------------
 
 hazard, flood hazard, danger
