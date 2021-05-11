@@ -246,7 +246,7 @@ Bilder aus [@S-FRM1-2].
 
 ## Physical Processes of Floods
 
-Zusammenfassung aus [@S-FRM1-2].
+Zusammenfassung aus [@S-FRM1-3].
 
 ### Modern weather forecast
 
@@ -261,7 +261,7 @@ Zusammenfassung aus [@S-FRM1-2].
     and the caculation ends with one final solution (deterministic
     model)
 
-### Types and temporal ranges of weather forecast
+#### Types and temporal ranges of weather forecast
 
 -   Nowcasting: Next two hours, onlky use of observations (e.g.,
     tracking algorithms for echoes in radar images), without
@@ -275,6 +275,186 @@ Zusammenfassung aus [@S-FRM1-2].
 -   Long-range: \> 10 days, further outlook; Comparison of cumulative
     precipitation forecast of one simulation for different models
     $\rightarrow$ measure of uncertainty
+
+#### Physical background of precipitation forecast
+
+Cloud microphysic schemes
+
+![](fig/FRM1/cloud_micro.png)
+
+-   Graupel has much higher fall speeds compared to snow
+
+-   Conversion processes, likesnow to graupel conversion by riming, are
+    very difficult to parameterize but very important in convective
+    clouds. Particle density and fall speeds are important parameters.
+
+#### Ensemble simulation
+
+-   Ensemble
+
+    -   estimation of the natural variance of output quantities
+
+    -   check of the stability of mid-range forecast
+
+Precipitation forecast is based on ensemble siomulations and probalities
+
+Flow diagram
+
+![](fig/FRM1/forecast_flow_diagram.png)
+
+### Evaluation of forecast quality
+
+![](fig/FRM1/eva_forecast.png)
+
+Probability of detection (Hit Rate)
+
+Measures the fraction of observed events that were correctly predicted.
+Sensitive to hits, good for rare events, Ignores false alarms.
+
+$$
+POD=\frac{hits}{hits+misses}
+$$
+
+Threat score (critical success index)
+
+Measures the fraction of observed and/or forecast events that were
+correctly predicted. Sensitive to hits, penalizes both misses and false
+alarms. Does not distinguish source of forecast error. Depends on
+climatological frequency of events (worse scores for rarer events) since
+some hits can occur purely due to random chance.
+
+$$
+TS=\frac{hits}{hits+misses+false\,alarms}
+$$
+
+![](fig/FRM1/measure_forecast.png)
+
+### Limits of weather forecast
+
+Dependency on forecast method and forecast period
+
+![](fig/FRM1/limits_fore.png)
+
+Reasons
+
+-   Erroneous initial conditions for modelling (erroes in measurements
+    and data interpolation)
+
+-   Inadequate model resolution: small-scale heavy rainfall can not be
+    simulated, orographically induced rainfall is underestimated
+
+-   Inadequate model physics (convective precipitation, precipitation is
+    only a diagnostic quantity and must be derived from other model
+    output)
+
+-   Inadequate methods of data assimilation (e.g., not all data sourecs
+    can be considered in time)
+
+-   Problems with interpretation of model results by the experts (ma
+    made errors)
+
+## Radar
+
+Zusammenfassung aus [@S-FRM1-4].
+
+Radar (radio detection and ranging):
+
+-   active remote sensing System
+
+    -   sending of micro- or radio waves (MHz- and GHz-range)
+
+    -   recieving of reflected radition
+
+Radiometer (passive remote sensing system $\rightarrow$ measurement of
+emitted radition)
+
+Goals of Radar:
+
+-   Distance
+
+-   Speed
+
+-   Form and size of obstacles
+
+-   Obstacle structure/ consitency
+
+-   Land surface eploration through clouds
+
+Opareting system
+
+-   Ground-based, planes
+
+-   Satellite-base (orbiting satellites)
+
+### Radar System
+
+![](fig/FRM1/radar_sys.png)
+
+Pulsed Radar
+
+-   Transmission of highly collimated EM-Waves of the antenna
+    $\rightarrow$ small collimated Pulses
+
+-   Propagation of radation in small and long angles (Radar-Beam) with
+    light speed $\rightarrow$ Pulse reaches an obstacle $\rightarrow$
+    Reflection (exactly Scattering)
+
+-   Receiving of back scattered radition signal
+
+-   Pulse with diferent Polarisations
+
+    -   Quotient of horizontal to vertical reflectivity differes from
+        the drop shape differes
+
+    -   large drops are flat
+
+![](fig/FRM1/rd_drop.png)
+
+Doppler Radar: Measurent of radial speed
+
+-   Derivation of horizontal wind speed
+
+-   Wind speed is an indicator for precipitation type
+
+Polarisation Radar: Difference of drop shape from shpere
+
+-    Measure for the drop size
+
+-   Derivation of precipatation $\rightarrow$ large drops / stratiform
+    precipitation
+
+Estimation of radar errors:
+
+-   A radar measurement is instant in time, raingauge measurement is
+    continuous
+
+-   radar detectes precipitation in a certain height above ground
+    depending on the beam angle $\neq$ ground precipitation
+
+-   Anomalous propagation of the radar beam, due to a non standard
+    distribution of temperature and humidity with height in the
+    atmosphere
+
+-   Pantom precipitation: multi reflection in dense clouds $\rightarrow$
+    increase of signal run time $\rightarrow$ wrong estimation of rain
+    rates
+
+-   Overestimation due to Bright-Band effect
+
+-   Radar artefacts, Static and moving Clutters (Wind mills, Towers,
+    Planes, Insects); Spokes (Completly blocked beam)
+
+### Radar based forecast
+
+Nowcasting = NOW + FORECASTING
+
+-   Characterisation of rainfields: size, mass, centre of gravity, aces
+    of inertia, angle of axes, class distribution, past movment, last
+    size difference, last mass diferencr, number of successful tracks
+
+-   Extrapolation of rainfields: Linear moment, Dynamics for certainty
+    estimate, Interpolation of image possible, Orographical effects
+    after analysis of data
 
 ------------------------------------------------------------------------
 
@@ -290,4 +470,8 @@ collective, individual or collective
 
 sustainability,
 
-magnitude
+magnitude,
+
+derive,
+
+Inadequate
