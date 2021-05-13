@@ -461,3 +461,29 @@ $$
 -   Hochmoore: Torfmoos- und Wollgrastorfe, ombrogene Wasserspeisung, oligotrophe Vegetation.
 
 -   Niedermoore: Riedtorfe, geogene Wasserspeisung, meso- bis eutrophe Vegetation Weitgehend gültig in sehr ebenen landschaften wie Niederlanden oder Niedersachsen.
+
+## Karst
+
+### Karst Arquifers
+
+#### General Characteristics
+
+#### Porosity and Karsitifikation
+
+#### Karst Landform
+
+### Karst Wasserhaushalt
+
+#### Allgemeine
+
+P, E, ...
+
+#### Groundwater flow
+
+#### Open channel flow
+
+#### Aquifer recharge
+
+#### Springs
+
+### Karst in Deutschland
