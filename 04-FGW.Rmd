@@ -1,0 +1,63 @@
+# Grundwasser (Fallstudien)
+
+## FloPy
+
+### Basic Modell stellen und laufen
+
+1.  Modell Projekt aufstellen
+
+    -   modelname --
+
+    -   exename --
+
+![](fig/FGW/mdflow0.png)
+
+2.  Basic Stellung (Diskretisierung, Boundary, Structure, Schichteneigenschaften)
+
+    -   DIS
+
+    -   BAS
+
+    -   LPF
+
+![](fig/FGW/mdf_dis.png)
+
+![](fig/FGW/mdf_bas.png)
+
+![](fig/FGW/mdf_lpf.png)
+
+3.  Output stellen
+
+    -   OC
+
+    -   PCG (finite difference equations)
+
+![](fig/FGW/mdf_out.png)
+
+4.  Modell laufen
+
+    -   XX.write_input()
+
+    -   XX.run_model()
+
+![](fig/FGW/mdf_run.png)
+
+5.  Post Process
+
+    -   Daten aus FloPy binaryfile
+
+        -   bf.HeadFile(model + 'hds')
+
+        -   bf.CellBudgetFile(model +'.cbc')
+
+    -   Plot mit matplotlib.pyplot
+
+        -   plt.contor
+
+    -   flopy.plot.ModelMap
+
+        -   model
+
+        -   layer
+
+![](fig/FGW/mod_erg.png)
