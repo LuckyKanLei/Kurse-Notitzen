@@ -464,26 +464,235 @@ $$
 
 ## Karst
 
+### Begriff und Bedeutung
+
+Karst ist der deutsche Name (slowenisch - Kras) für eine von Kiefernwäldern, Wiesen und Weiden geprägte Landschaft Sloweniens im Hinterland von Triest.
+
+Besonderheiten gegenüber anderen Regionen:
+
+-   Trotz hoher Niederschläge und humider Klimabedingungen prägen abflusslose trockene Holform und fehlender oberflächlicher Abfluss;
+
+-   587 bekannte Höhlen;
+
+-   der Fluss Reka verschwindet am südöstlichen Rand des Plateaus in der Hählen von San Kanzian;
+
+-   am nordwestlichen Rand schütten die Timavo Quellen mit über 30.000 Liter pro Sekunde.
+
+Seit 16. - 19. Jahrhundert wurde der Landschaftesname Karst mit diesen spezifischen Phänomen verbunden.
+
+Seit weiterer grundlegenden Arbeite ist Karst ein Wissenschaftsbegriff, der sich international durchsetzte und heute übergeordnet eine multidisziplinäre und interdisziplinäre Wissenschaft kennzeichnet.
+
+Alle in Karstlandschaften auftretenden Phänomene, Processe und vorhandenen ökologischen Aussttungen werden heute weltweit unter dem Befriff "Karst" subsumiert.
+
+-   Petrographie
+
+-   Geologie
+
+-   Paläontologie
+
+-   Archäologie
+
+-   Geomorphologie
+
+### Voraussetzungen (Entstehung ??)
+
+Gemeisame Geofaktoren sind die unabdingbaren Voraussetzungen für ein Karstlandschaft.
+
+-   Lösliche Gesteine, die in einem so hoch Maße mit Wasser oder wässrigen Lösungen reagieren, dass an der Lanoberfläche Lössungsformen und im Untergrund erweiterte Kluftsysteme und Höhlen entsthen.
+
+-   Überwiegend unterirdische Entwässerung und nicht die in humiden Klimaten normale, oberflächliche durch Fließgewässer, oder flächenhaften Abfluss oder Süßwassernseen in Hohlformen gekennzeichnete Hdrographie.
+
+-   Korrosionsbedingte spezifische Oberflächenformen, die in ihrer Verbreitung auf die mit diesen petrographischen und hzdrographischen Grundlagenausgestatteten Regionen beschränkt sind, bestimmen das Landschaftsbild.
+
+### Entstehung / Entwicklung
+
+Im Bereich der Erdoberfläche unterliegen alle Gesteine Veränderungen, die auf physikalische und chemische Prozesse im Kontakt mit der Atmosphäre, der Hydrospähre und der Biosphäre zurückgehen.
+
+Diese als Verwitterung bezeichneten Veränderungen werden zwar von pedoklimatischen Bedingungen, dem Chemismus wässeriger Lösungen, organischer Substanz und der Zeitdauer gleichsinniger Prozesse gesteuert, aber wesentlich für die Intensität und den zeitlichen Ablauf ist der Mmineralbestand der Gesteine.
+
+Physikalische Verwitterung:
+
+-   Insolation
+
+-   Desquamation
+
+-   Kernsprenggung
+
+-   Fortspregung
+
+-   Salzsprengung
+
+-   Wurzelsprengung
+
+Die chemische Verwittung verändert den Chemismus der handenen Gesteine und wird in ihrer Intensität und Geschwindigkeit von der Reaktion der Minerale mit wässrigen Lösungen bestimmt.
+
+-   Evaporite (die Chloride und Sulfate der Alkali- und Erdalkalimetalle) reagieren durch Hydratation.
+
+-   Karbonate und Silikate reagieren mit H und OH Ionen des dissoziierten Wassers.
+
+-   Silikate reagieren mit wässerigen Lösungen mit Hydrolyse, aber diese Prozesse laufen sehr langsam ab.
+
+[Tab. 3.2 S.34]
+
 ### Karst Arquifers
+
+Karst auifer is the main part of a karst water system. On a volume basis, it recevies, stores, and transmits more water than all surface streams within the system combined.
 
 #### General Characteristics
 
+Type of the hydrologeologic:
+
+1.  Open hydrogeologic structure: Recharge and discharge zones are fully defined (know). 1a,1b
+2.  Smei-open hydrodeologic structure: The aquifer is not entirely exposed to the surface, but the discharge zone is fully defined. 2a, 2b
+3.  Semi-closed hydrodeologic structure: Recharge and discharge zones are only partially know or mostly unknow. 3a, 3b
+4.  Closed hydrodeologic structure: The aquifer is completely isolated by impermeable geologic units and does not recevie recharge.
+
+[fig. 1.12 P.12]
+
 #### Porosity and Karsitifikation
+
+Many quantitative prameters describing "life cycle" of water and contaminants (when present) within a groundwater system directly or indirectly depend on porosity.
+
+Porosity (n) is defined as the percentage of voids (empty space occupied by water or air) in the total volume of rock, which includes both solids and voids:
+
+$$
+n=\frac{V_v}{V}\times 100 \%
+$$
+
+[fig. 1.29 p.28]
+
+Rocks that have both matric and the fracture porosity are referred to as dual-porosity media.[p25]
+
+[fig. 1.31 p.30]
+
+Effective porosity is defined as the volume of interconnected pore space that allows free gravity flow of groundwater.
+
+porosity type: matrix, fracture, solution
 
 #### Karst Landform
 
+All landforms specific to karst terrains, visible at the land surface and in the subsurface, are the result of carbonate rock dissolution (karstification) to varing degress.
+
+[fig. 1.53 p.53]
+
+-   sinkholes and other depressions:
+
+    -   Sinkholes are the signature of karst terrains, they usually from at mecahanically weakened fracture intersections where water can easily percolate and flow deeper into the underlying rock carrying rock carrying away dissolved carbonates.[p54]
+
+[fig. 1.53 p.55]
+
+-   Kavities:
+
+    -   Karst potholes and pits (international term for both is jama) are predominantly vertical karst cavities developed by water percolating through the vadose (unsaturated) zone. [fig. 1.83 p.73]
+
+    -   Pit is defined as a deep hole, usually circular in outline, having vertical or nearly vertical walls.
+
+    -   Caves, the predominantly horizontal karst cavities, are formed by the solution and mechanical action of flowing groundwater. [fig. 1.85 p.75]
+
 ### Karst Wasserhaushalt
 
+[KHG fig 1.2 p3]
+
 #### Allgemeine
+
+Precipitation
+
+As emphasized repeatedly, an analysis of precipiatation at all temporal scales is highly recommended ffor any project in karst.
+
+-   Short period of site-specific data on precipitation, flow rate, and hydraulic head fluctuations.
+
+-   Long-term data for natural hydrologic and climatic cycles.
+
+A simple visual analysis of precipitation versus flow rate:
+
+[fig. 1.164, p.157]
+
+Evapotranspriation
+
+PET (potential evatranspiration) is defined as the rate at which ET would occur from a large area completely and uniformly covered with growing vegetation, which has access to an unlimited supply of soil water and without advection or heat-storage effects.[p.172]
+
+On a natural watershed with many vegeral species, it is reasonable to assume that AET (actual evatranspiration) rates do vary with soil moisture, since shallow-rooted species will cease to transpire before deeper-rooted species(linsley and Franzini, 1979).
 
 P, E, ...
 
 #### Groundwater flow
 
-#### Open channel flow
+In karst aquifer there are types of porosity present, the hydaulic head are different to different types.
+
+[fig, 1.134 p.125]
+
+four flow types:
+
+-   Darcy's flow through the rock matrix
+
+    -   $Q=KiA$
+
+-   Laminar and turbulent flow through fractures
+
+    -   Fracture aperture is not constant and there are voids and very narrow or contact areas called asperities [fig 1.139 p.130]
+
+    -   Fractures have limited lenghth and width, which can slao vary between individual fractures in the same fracture set. [p.130]
+
+    -   $K=B^2\frac{\rho g}{12\mu}$
+
+    -   [fig 1.140 p.130]
+
+-   Laminar and turbulent flow under pressure through fully submerged conduits
+
+-   Laminar and turbulent with free surface through karst channels
+
+#### Channel flow
+
+In many karst aquifers, the most important portion of ground water flow takes place in interconnected solution cavities that are commonly referred to as conduits or channels. By definition, a conduit has one dimension, length, disproporitionally large. [p. 132]
+
+Most importantly, the traditional hydroulics of pipes (channels) is based on the principle of flow continuity, which assumes that there is no inflow or outflow of water through pipe walls. [p133]
+
+flow rate:
+
+$$
+Q=\int_Avda 
+$$
+
+Flow rate in karst channels, which are not submerged (where the flow is with free surface), can be calculated using the Chezy-Manning quation:[p147]
+
+$$
+Q=A\frac{1}{n}R^{2/3}i_0^{1/2}
+$$
 
 #### Aquifer recharge
 
+Aquifer recahrge is the most important water budget component of a karst system.
+
+Recharge water enters the Aquifer through sinkoles, swallow holes, and sinking streams. Surface streams are scare because most of the water is quickly routed underground through solution openings. In the subsurface, water moves through caverns and other types of large solution openings.[p17]
+
+Aquifer recharge ia both a probabilistic and a determinisc process: if and when it rains (laws of probability), the infiltration of water into the subsurface and the eventuel recharge of the saturated zone will follow physical laws.[p153]
+
+Autogenic Recharge
+
+Direct recharge by precipitation of a karst aquifer exposed (outcropping) at the land surface is usually called automagenic.
+
+Allogenic recharge
+
+Sinking of surface streams is one of the main characteristics of karst terrains. It provides direct aquifer recharge with large quantities of water on a continuous or, in case of intermittent streams, semicontinuous basis.
+
+[fig. 1.195 p.191]
+
 #### Springs
+
+Spring is a location at the land surface where groundwater discahrges from the aquifer, creating a visible flow. This discharge is caused by difference in the elevation of the hydraulic head in the aquifer and the elevation of the land surface where the siacahrge is taking place.[p.194]
+
+-   Gravity springs emerge under unconfined conditions where water table interesects land surface.
+
+    -   Desending contact spring: when the contact between the water-bearing rock and the impermeable underlying rock is sloping toward the spring, in the direction of groundwater flow, and the aquifer is above this impermeable contact. [fig. 1.202a p.196]
+
+    -   overflowing contact spring: when the impermeable contact slopes away from the spring, in direction opposite of the groundwater flow. [fig. 1.202b p.196]
+
+-   Barrier springs: the term generally refering to springs at any lateral contact between the aquifer and a low-permeable rock (sediment). Such contact an have many different shapes aused by depositional procesases and tectonic movements that from a varity of faults and folds.
+
+[fig. 1.205 p.198]
+
+-   Submerged (subaqueous) springs: Discahrge of groundwater into surface streams and other water bodies may occur below the surface water level and may not be immedaitely visible.[fig. 1.212 p.203]
+
+-   Estavelle: spring with dual function: it spring during high hydraulic heads in the aquifer, and as surface water sink during periods when the hydraulic head in the aquifer is lower than in the body of surface water. [fig. 1.215 p.205]
 
 ### Karst in Deutschland
