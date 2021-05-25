@@ -494,6 +494,11 @@ Alle in Karstlandschaften auftretenden Phänomene, Processe und vorhandenen öko
 
 -   Geomorphologie
 
+„Karst ist jeder Landschaftstyp, in dem infolge der Klüftigkeit und Löslichkeit des Gesteins ein
+Teil oder die Gesamtheit der Wässer aus Niederschlägen und/oder Oberflächengerinnen
+(Rinnsale, Bäche, Flüsse) unterirdisch abfließen und in dem kennzeichnende, vorwiegend
+der Korrosion zu verdankende oberirdische und unterirdische Landschaftsformen (Karstformen, Karsterscheinungen) auftreten können" (ÖWAV, 2007).
+
 ### Voraussetzungen (Entstehung ??)
 
 Gemeisame Geofaktoren sind die unabdingbaren Voraussetzungen für ein Karstlandschaft.
@@ -503,6 +508,16 @@ Gemeisame Geofaktoren sind die unabdingbaren Voraussetzungen für ein Karstlands
 -   Überwiegend unterirdische Entwässerung und nicht die in humiden Klimaten normale, oberflächliche durch Fließgewässer, oder flächenhaften Abfluss oder Süßwassernseen in Hohlformen gekennzeichnete Hdrographie.
 
 -   Korrosionsbedingte spezifische Oberflächenformen, die in ihrer Verbreitung auf die mit diesen petrographischen und hzdrographischen Grundlagenausgestatteten Regionen beschränkt sind, bestimmen das Landschaftsbild.
+
+Verkarstungsfähige Gesteine sind:
+
+-   Karbonatgesteine wie Kalke und Dolomite
+
+-   Evaporite (Salzgesteine) wie Gips, Steinsalz, etc.
+
+-   Festgesteine mit wasserlöslichen Komponenten wie Konglomerate, Brekzien, Kalksandsteine, Mergel und Metamorphite
+
+-   Lockersedimente mit wasserlöslichen Komponenten
 
 ### Entstehung / Entwicklung
 
@@ -537,6 +552,8 @@ Die chemische Verwittung verändert den Chemismus der handenen Gesteine und wird
 ### Karst Arquifers
 
 Karst auifer is the main part of a karst water system. On a volume basis, it recevies, stores, and transmits more water than all surface streams within the system combined.
+
+Ein verkarsteter Gesteinskörper kann in den Hohlräumen Grundwasser speichern und weiterleiten, daher die Bezeichnung Karstgrundwasser oder Karstaquifer. [MAK]
 
 #### General Characteristics
 
@@ -696,3 +713,91 @@ Spring is a location at the land surface where groundwater discahrges from the a
 -   Estavelle: spring with dual function: it spring during high hydraulic heads in the aquifer, and as surface water sink during periods when the hydraulic head in the aquifer is lower than in the body of surface water. [fig. 1.215 p.205]
 
 ### Karst in Deutschland
+
+### Trinkwasser im Karst
+
+An den Komfort, die Sicherheit und vor allem die Zuverlässigkeit der Wasserversorgung haben sich moderne Gesellschaften längst gewöhnt. Heute ist der direkte Kontakt zum Ursprung des Wassers verloren gegangen, da es billig und sicher in jedem Haushalt zur freien Verfügung steht. [MAK]
+
+Für die Trinkwasserversorgung werden vorzugsweise unterirdische Wässer (Grund- und Quellwasser) herangezogen. Diese sind wegen ihrer Bodenüberdeckung besser gegen Umwelteinflüsse und gegen einen Schadstoffeintrag geschützt als Oberflächenwässer.
+
+Im Allgemeinen gilt Grundwasser für Trinkwasserzwecke als hygienisch beste Art der Wasserversorgung (Kainz et al., 2012).
+
+-   Poren-Grundwasser
+
+-   Kluft-Grundwasser (nicht verkarstetes Festgestein)
+
+-   Karst-Grundwasser
+
+    -   Festgestein mit Hohlräumen, verkarstungsfähiges Gestein (Karbonate)
+
+    -   Großes Hohlraumvolumen besonders kompliziert und unregelmäßig
+
+    -   Sehr hohe Fließgeschwindigkeit 15-400 m/d
+
+Kommt es in einem Wasserversorgungsgebiet zu Wassermangel oder zur Verschlechterung der Wasserqualität, so ist es trotzdem notwendig das betroffene Versorgungsgebiet mit einwandfreiem Wasser versorgen zu können.
+
+Unter Karstwasser wird die Gesamtheit unterirdischen Wassers in verkarstetem Gestein verstanden (ÖWAV, 2007).
+
+#### Schutzzonen
+
+Wesentliche Voraussetzung für einen nachhaltigen Schutz des Grundwassers ist die Ausweisung ausreichend großer Schutzzonen.
+
+-   Schutzzone I -- Fassungsbereich: Die Schutzzone I dient dem Schutz des Fassungsbereichs einer Wassergewinnungsanlage und der dazugehörigen Bauten vor
+    unmittelbar schädigenden Einflüssen.
+
+-   Schutzzone II -- Engeres Schutzgebiet: Die Schutzzone II dient dem Schutz des
+    Gebietes des Zuströmens zur Wasserfassung.
+
+-   Schutzzone III -- Weiteres Schutzgebiet: Die Schutzzone III dient dem Schutz des
+    hydrographischen Einzugsgebietes, welches entweder einer oder mehrerer Wasserfassungen zugeordnet werden kann.
+
+Die Definition der Schutzzone I bleibt gleich. Dabei ist auch für Karstgrundwässer der unmittelbare Bereich der Quellfassung gemeint und somit besonders schützenswert. Charakteristisch für Karstgrundwässer ist die nicht ausreichende oder ehlende Filterwirkung bzw. Bodenpassage. Daher reagieren diese Wässer auf direkt von der Oberfläche eingebrachte Schadstoffe besonders empfindlich. Der Schadstoffeintrag kann on großer Entfernung über die Atmosphäre herangetragen werden. Daher sind Schutzmaßnahmen unabhängig von einer Zonierung, gebietsumfassend festzulegen (ÖVGW, 2004).
+
+Karstgrundwasser gehört weltweit zu den wichtigsten Süßwasserressourcen. Etwa 25 % der Weltbevölkerung beziehen ihr Trinkwasser aus dem Karst (Glodschneider et al., 2004).
+
+
+#### Wasserqualität
+
+Durch die starke Polarität des Wassers, weist es eine hohe Bereitschaft auf, andere Stoffe zu lösen, vor allem solche die selbst polar sind -- dazu gehören viele Mineralien, wie Natrium, Kalium, Magnesium, Calcium, etc. Dabei werden die Salze im Wasser in elektrisch geladene Teilchen (Ionen) aufgespalten, wodurch sie für den Stoffwechsel von Menschen, Tieren und Pflanzen nutzbar werden (Merkl, 2008).
+
+Die Qualität des Trinkwassers lässt sich sehr gut mit der regelmäßigen Kontrolle der Trübung und der Färbung überwachen. Trübstoffe können Farbträger sein oder es können neben Trübstoffen auch gelöste Farbstoffe im Wasser vorkommen.
+
+Karstwasser unterliegt nicht nur Schwankungen der Ergiebigkeit, sondern auch teils starken Schwankungen der physikalisch-chemischen und mikrobiologischen Beschaffenheit. Schwankungen der Beschaffenheit (Wassertemperatur, elektrische Leitfähigkeit, pH-Wert, Trübe, etc.)
+
+Verschiedene Untersuchungen zeigten den Zusammenhang zwischen Keimzahlen (KBE)
+und Boden- und Vegetationsdecke (Kahl- oder Grünkarst). Bei Quellen deren Einzugsgebiet
+ganz oder teilweise im Grünkarst liegt, kommt es üblicherweise nach Starkregen oder während der Schneeschmelze zum Anstieg der Keimzahlen.[MAK]
+
+Weitere Untersuchungen zeigten, dass Dolomitkarstkörper geringere Keimzahlen als Kalkgebiete aufweisen.[MAK]
+
+Zudem zeigen Karstquellwässer aus gemischten Einzugsgebieten (Kahl- und Grünkarst) geringere esamtkoloniezahlen als Karstquellwässer aus reinen Grünkarstgebieten.[MAK]
+
+Karstgrundwasser ist in hohem Maß verletzlich (vulnerabel) gegenüber Schadstoffeinträgen. Meist ist die Deckschicht der Karstgrundwassereinzugsgebiete unzureichend ausgebildet, wodurch das einsickernde Niederschlagswasser keine nennenswerte Reinigung erfährt. Auch offene Spalten und Schächte stellen Gefahrenpunkte dar.
+
+Verletzlichkeit und Empfindlichkeit
+
+Karstformen wie Dolinen und Schwinden stellen punktuelle Infiltrationsmöglichkeiten dar, die eine sehr rasche Infiltration von Oberflächenwasser erlauben. Durch diese hohe Durchlässigkeit
+von solchen Karststrukturen kann eine erhebliche Gefährdung der Wasserqualität ausgehen.
+
+Problem
+
+Das Karstwasser kann eine sehr hohe Qualität aufweisen und manchmal sogar ohne jegliche
+Aufbereitung verwendet werden. Jedoch ist es empfindlich und kann dementsprechend leicht
+durch Schadstoffeintrag beeinträchtigt werden. Die Bedrohungen sind sehr vielfältig und
+werden im Folgenden beschrieben (Kralik, 2001).
+
+Verschmutzungsverursacher -- negative Beeinflussung von Karstwasservorkommen:
+
+-   Massentourismus (Hotels, Parkplätze, Autostraßen, Seilbahnen, Wandertourismus, Abwasserbeseitigung)
+
+-   Landwirtschaft (im Einzugsgebiet, Tierhaltung, unsachgemäße Düngung, Pestizide, im voralpinen Karst)
+
+-   Intensive Alm-(Vieh)wirtschaft (Wege, Steige, Erosionsrinnen, Vegetationsschädigung durch berweidung)
+
+Schadstoffe:
+- Bakteriologisch/Hygienische Belastung (Abwasser- und Fäkalkeime, Trübung behindert Entkeimung, oli Bakterien, Weidevieh, Wildtiere, Fäkalien)
+- Mineralöle + Treibstoffe (von Schutzhütten, Seilbahnen, Pistengeräten und Generatoren, Straßen)
+- Nitrat
+- Trübungen (z. B.: nach Forststraßenbau, Feststoffe aus ausgewaschenen Böden, Erosion durch Starkregenereignisse, org. Substanzen)
+
+
