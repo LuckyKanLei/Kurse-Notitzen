@@ -418,7 +418,7 @@ Doppler Radar: Measurent of radial speed
 
 Polarisation Radar: Difference of drop shape from shpere
 
--    Measure for the drop size
+-   Measure for the drop size
 
 -   Derivation of precipatation $\rightarrow$ large drops / stratiform
     precipitation
