@@ -364,6 +364,105 @@ $$
 LE=-\rho LK_E\frac{{\rm d}q}{{\rm d}z}
 $$
 
+## Lokale Rückkopplungen
+
+Ursache:
+
+1.  Blattebene: Phzsiologische Kontroll- und Steuerfunktion der Pflanzen
+    $\rightarrow$ positive und negative Rückkopplung zwischen
+    Transpiration, Sättigungsdefizit und wasserverfügbarkeit
+
+2.  Grenzschichtskala, Steuerung durch:
+
+    -   Energieaustauschen an der Oberfläche $\rightarrow$
+        Oberflächenrückkoplung
+
+    -   vertikalen Austausch innerhalb und außerhalb der Grenzschicht
+        $\rightarrow$ Grenzschichtrückkopplung
+
+    -   Horizontalen Austausch zwischen unterschiedlichen
+        Oberflächenrauigkeiten $\rightarrow$ Advektionsrückkopplung
+
+### Widerstandskonzept
+
+Analogie zum Ohmschen Gesetz:
+
+$$
+Strom=\frac{Potentialdifferenz}{Widerstand}
+$$
+
+![](fig/BPA/widerstand.png)
+
+$$
+H=\frac{T_0-T_r}{r_{a,H}}\rho c_p
+$$
+
+$$
+LE=\frac{q_0-q_r}{r_c+r_{a,H}}\rho L
+$$
+
+### Blatteben
+
+Rückkopplung
+
+![](fig/BPA/tr_fadeback.png)
+
+### Gerenzschichtskala
+
+Oberflächenrückkopplung und Grenzschichtrückkopplung
+
+![](fig/BPA/ob_grenz_kopplung.png)
+
+Advektionsrückkopplung (Kanteneffekte)
+
+Horitionale Inhomogenitäten (Rauigkeitssprünge) erzeugen dznamische
+induzierte Turbulenz. Dies führt zum verstärkten horizontalen Transport
+von Eigenschaften der Inhomogenität in ein benachbartes Gebiet
+(Advektion). Die damit veränderten Horizontal- und Vertikalgradienten
+führen wiederum zu veränderten Austauschbedingungen, die auf das
+Quellegebiet der Turbulenzerzeugung rückkoppeln.
+
+![](fig/BPA/kanteneffeckt.png)
+
+### Diagnostisches Maß: Entkoppelungsfaktor $\Omega$
+
+-   gebräulichstes diagnostisches Maß zur Beschreibung der
+    aerodznamischen Kopplung zwischen Vegetation und Atmosphäre
+
+-   Maßzahl für den Grad der Steuerung und Kontrolle der Verdunstung
+    durch die Vegetation über die Stomata
+
+$$
+\Omega=\frac{s+\gamma}{s+(1+\frac{r_s}{r_a})}
+$$
+
+$s$: Steigung der Sättigungsdampfdruckkurve;
+
+$\gamma$: Psychrometerkonstante;
+
+$r_a$: aerodznamischer Widerstand für den Wärmeaustausch;
+
+$r_s$: stomatärer oder Besatndesiderstand;
+
+$r_a+r_s=r_v,\; r_a=r_H$
+
+$r_H=\rho c_p(T_0-T) / H$ aerodynamischer Widerstand für den Austausch
+fühlbarer Wärme;
+
+$r_v=\rho L(q_s(T_0)-q)/LE$ Verdunstungswidersatnd.
+
+Verdunstungskontrolle durch die Vegetation:
+
+$$
+E=\Omega E_{eq}+(1-\Omega)E_{imp}
+$$
+
+$E_{eq}$: Gleichgewichtsverdunstung;
+
+$E_{imp}$: erzwungene Verdunstung.
+
+![](fig/BPA/e_omega.png)
+
 ## Übung
 
 ### Strahlungbilanz
