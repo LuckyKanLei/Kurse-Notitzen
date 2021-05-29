@@ -478,7 +478,7 @@ Besonderheiten gegenüber anderen Regionen:
 
 -   am nordwestlichen Rand schütten die Timavo Quellen mit über 30.000 Liter pro Sekunde.
 
-Seit 16. - 19. Jahrhundert wurde der Landschaftesname Karst mit diesen spezifischen Phänomen verbunden.
+Seit 16. - 19. Jahrhundert wurde der Landschaftesname Karst mit diesen spezifischen Phänomen verbunden.[s.1]
 
 Seit weiterer grundlegenden Arbeite ist Karst ein Wissenschaftsbegriff, der sich international durchsetzte und heute übergeordnet eine multidisziplinäre und interdisziplinäre Wissenschaft kennzeichnet.
 
@@ -736,11 +736,11 @@ Im Allgemeinen gilt Grundwasser für Trinkwasserzwecke als hygienisch beste Art 
 
 Kommt es in einem Wasserversorgungsgebiet zu Wassermangel oder zur Verschlechterung der Wasserqualität, so ist es trotzdem notwendig das betroffene Versorgungsgebiet mit einwandfreiem Wasser versorgen zu können.
 
-Unter Karstwasser wird die Gesamtheit unterirdischen Wassers in verkarstetem Gestein verstanden (ÖWAV, 2007).
+Unter Karstwasser wird die Gesamtheit unterirdischen Wassers in verkarstetem Gestein verstanden (ÖWAV, 2007).
 
 #### Schutzzonen
 
-Wesentliche Voraussetzung für einen nachhaltigen Schutz des Grundwassers ist die Ausweisung ausreichend großer Schutzzonen.
+Wesentliche Voraussetzung für einen nachhaltigen Schutz des Grundwassers ist die Ausweisung ausreichend großer Schutzzonen.
 
 -   Schutzzone I -- Fassungsbereich: Die Schutzzone I dient dem Schutz des Fassungsbereichs einer Wassergewinnungsanlage und der dazugehörigen Bauten vor
     unmittelbar schädigenden Einflüssen.
@@ -749,7 +749,7 @@ Wesentliche Voraussetzung für einen nachhaltigen Schutz des Grundwassers ist di
     Gebietes des Zuströmens zur Wasserfassung.
 
 -   Schutzzone III -- Weiteres Schutzgebiet: Die Schutzzone III dient dem Schutz des
-    hydrographischen Einzugsgebietes, welches entweder einer oder mehrerer Wasserfassungen zugeordnet werden kann.
+    hydrographischen Einzugsgebietes, welches entweder einer oder mehrerer Wasserfassungen zugeordnet werden kann.
 
 Die Definition der Schutzzone I bleibt gleich. Dabei ist auch für Karstgrundwässer der unmittelbare Bereich der Quellfassung gemeint und somit besonders schützenswert. Charakteristisch für Karstgrundwässer ist die nicht ausreichende oder ehlende Filterwirkung bzw. Bodenpassage. Daher reagieren diese Wässer auf direkt von der Oberfläche eingebrachte Schadstoffe besonders empfindlich. Der Schadstoffeintrag kann on großer Entfernung über die Atmosphäre herangetragen werden. Daher sind Schutzmaßnahmen unabhängig von einer Zonierung, gebietsumfassend festzulegen (ÖVGW, 2004).
 
@@ -760,7 +760,7 @@ Karstgrundwasser gehört weltweit zu den wichtigsten Süßwasserressourcen. Etwa
 
 Durch die starke Polarität des Wassers, weist es eine hohe Bereitschaft auf, andere Stoffe zu lösen, vor allem solche die selbst polar sind -- dazu gehören viele Mineralien, wie Natrium, Kalium, Magnesium, Calcium, etc. Dabei werden die Salze im Wasser in elektrisch geladene Teilchen (Ionen) aufgespalten, wodurch sie für den Stoffwechsel von Menschen, Tieren und Pflanzen nutzbar werden (Merkl, 2008).
 
-Die Qualität des Trinkwassers lässt sich sehr gut mit der regelmäßigen Kontrolle der Trübung und der Färbung überwachen. Trübstoffe können Farbträger sein oder es können neben Trübstoffen auch gelöste Farbstoffe im Wasser vorkommen.
+Die Qualität des Trinkwassers lässt sich sehr gut mit der regelmäßigen Kontrolle der Trübung und der Färbung überwachen. Trübstoffe können Farbträger sein oder es können neben Trübstoffen auch gelöste Farbstoffe im Wasser vorkommen.
 
 Karstwasser unterliegt nicht nur Schwankungen der Ergiebigkeit, sondern auch teils starken Schwankungen der physikalisch-chemischen und mikrobiologischen Beschaffenheit. Schwankungen der Beschaffenheit (Wassertemperatur, elektrische Leitfähigkeit, pH-Wert, Trübe, etc.)
 
@@ -795,8 +795,8 @@ Verschmutzungsverursacher -- negative Beeinflussung von Karstwasservorkommen:
 -   Intensive Alm-(Vieh)wirtschaft (Wege, Steige, Erosionsrinnen, Vegetationsschädigung durch berweidung)
 
 Schadstoffe:
-- Bakteriologisch/Hygienische Belastung (Abwasser- und Fäkalkeime, Trübung behindert Entkeimung, oli Bakterien, Weidevieh, Wildtiere, Fäkalien)
-- Mineralöle + Treibstoffe (von Schutzhütten, Seilbahnen, Pistengeräten und Generatoren, Straßen)
+- Bakteriologisch/Hygienische Belastung (Abwasser- und Fäkalkeime, Trübung behindert Entkeimung, oli Bakterien, Weidevieh, Wildtiere, Fäkalien)
+- Mineralöle + Treibstoffe (von Schutzhütten, Seilbahnen, Pistengeräten und Generatoren, Straßen)
 - Nitrat
 - Trübungen (z. B.: nach Forststraßenbau, Feststoffe aus ausgewaschenen Böden, Erosion durch Starkregenereignisse, org. Substanzen)
 
